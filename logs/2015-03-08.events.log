@@ -1,0 +1,16 @@
+l2	time	2015-03-08T01:51:22	code	32000	message	<span>Application started</span>
+l2	time	2015-03-08T01:51:23	code	1120	message	<span>Report-Mailer Service Started</span>
+l2	time	2015-03-08T01:52:54	code	5000	message	<span>Audit: SecurityFailure Login with username PotraitMalaya from ::1</span>
+l2	time	2015-03-08T01:53:14	code	5000	message	<span>Audit: SecurityFailure Login with username PotretMalaya from ::1</span>
+l2	time	2015-03-08T01:53:25	code	5000	message	<span>Audit: SecurityFailure Login with username PotretMalaya from ::1</span>
+l2	time	2015-03-08T01:53:35	code	5000	message	<span>Audit: SecurityFailure Login with username PotretMalaya from ::1</span>
+l2	time	2015-03-08T01:53:55	code	5000	message	<span>Audit: SecurityFailure Login with username PotretMalaya from ::1</span>
+l2	time	2015-03-08T01:55:20	code	5000	message	<span>Audit: SecurityFailure Login with username PotretMalaya from ::1</span>
+l2	time	2015-03-08T01:55:27	code	5000	message	<span>Audit: SecurityFailure Login with username PotretMalaya from ::1</span>
+l2	time	2015-03-08T01:55:30	code	5000	message	<span>Audit: SecurityFailure Login with username PotretMalaya from ::1</span>
+l2	time	2015-03-08T01:55:34	code	5000	message	<span>Audit: SecurityFailure Login with username PotretMalaya from ::1</span>
+l2	time	2015-03-08T01:55:57	code	5000	message	<span>Audit: SecurityFailure Login with username PotretMalaya from ::1</span>
+l2	time	2015-03-08T01:57:48	code	1	message	<span>Error:<br/>System.InvalidOperationException: Precondition failed: this.Identifier != null No identifier has been set.<br />   at System.Diagnostics.Contracts.__ContractsRuntime.Requires[TException](Boolean condition, String message, String conditionText) in :line 0<br />   at DotNetOpenAuth.OpenId.RelyingParty.OpenIdRelyingPartyControlBase.CreateRequests() in c:\Users\andarno\git\dotnetopenid\src\DotNetOpenAuth\OpenId\RelyingParty\OpenIdRelyingPartyControlBase.cs:line 606<br />   at DotNetOpenAuth.OpenId.RelyingParty.OpenIdLogin.LoginButton_Click(Object sender, EventArgs e) in c:\Users\andarno\git\dotnetopenid\src\DotNetOpenAuth\OpenId\RelyingParty\OpenIdLogin.cs:line 935<br />   at System.Web.UI.WebControls.Button.OnClick(EventArgs e)<br />   at System.Web.UI.WebControls.Button.RaisePostBackEvent(String eventArgument)<br />   at System.Web.UI.WebControls.Button.System.Web.UI.IPostBackEventHandler.RaisePostBackEvent(String eventArgument)<br />   at System.Web.UI.Page.RaisePostBackEvent(IPostBackEventHandler sourceControl, String eventArgument)<br />   at System.Web.UI.Page.RaisePostBackEvent(NameValueCollection postData)<br />   at System.Web.UI.Page.ProcessRequestMain(Boolean includeStagesBeforeAsyncPoint, Boolean includeStagesAfterAsyncPoint)<br/> while processing http://localhost:56628/Login.aspx.</span>
+l2	time	2015-03-08T01:57:57	code	5001	message	<span>Audit: SecuritySuccess Login with username PotretMalaya from ::1</span>
+l2	time	2015-03-08T01:58:14	code	5001	message	<span>Audit: SecuritySuccess Login with username PotretMalaya from ::1</span>
+l2	time	2015-03-08T01:59:34	code	500	message	<span>Info ReferralReceived:<br/>Referral received from target <a href="http://localhost:56628/EditConfig.aspx">http://localhost:56628/EditConfig.aspx</a> originating at IP Address ::1 </span>
